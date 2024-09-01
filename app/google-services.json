@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38909113137",
+    "project_id": "scientific-calculator-4f378",
+    "storage_bucket": "scientific-calculator-4f378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38909113137:android:8565311cbd9f960950f610",
+        "android_client_info": {
+          "package_name": "com.example.myapplication_calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaeUT8e2qia5jN6v9Hml9hTIJs5XV7p1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
